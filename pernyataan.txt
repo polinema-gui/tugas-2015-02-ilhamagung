@@ -1,7 +1,7 @@
 Saya yang mempunyai identitas di bawah ini,
-NIM   : [1441180136]
-Nama  : [ilham agung p]
-Kelas : [TI 2E]
+NIM   : [NIM]
+Nama  : [nama-lengkap]
+Kelas : [kelas]
 
 Dengan ini menyatakan:
 
